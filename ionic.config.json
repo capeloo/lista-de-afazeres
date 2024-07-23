@@ -1,0 +1,7 @@
+{
+  "name": "lista_de_tarefas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
